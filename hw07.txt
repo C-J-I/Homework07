@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 HELLO THERE CSCI-C151
+>>>>>>> 9e89b3e31a93d6542afc1b58f1c5fb084fa66ce3
 I want to go to sleep.
 I am really tired of all the projects that I have to create in multiple classes.
 I just want the school year to be done with.
